@@ -62,19 +62,6 @@ API CRUD desenvolvida utilizando **Java e Spring Boot**, com arquitetura em cama
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api?username=eloisacavalaro&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloisacavalaro&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
 
 ## 📫 Contato
 
