@@ -1,45 +1,62 @@
-# Olá, eu sou a Eloisa 
+# Olá, eu sou a Eloisa 👋
 
-🎓 Estudante de Engenharia de Computação  
-💻 Interesso-me por desenvolvimento back-end e front-end  
-📚 Utilizo este GitHub para organizar projetos acadêmicos, estudos e projetos práticos  
-
----
-
-## 🧠 Experiência prática
-
-Ao longo dos meus estudos já desenvolvi:
-
-- Sistemas em Java com Programação Orientada a Objetos
-- Projetos utilizando Spring Boot
-- APIs simples com CRUD
-- Projetos front-end (HTML, CSS e JavaScript)
-- Sites institucionais e páginas temáticas
+🎓 Estudante de Engenharia da Computação — 4º período  
+💻 Interesse em desenvolvimento back-end e full stack  
+🚀 Desenvolvendo projetos práticos com Java, Spring Boot, Node.js e PostgreSQL
 
 ---
 
-## 🚀 Tecnologias que já utilizei
+## 🚀 Projetos em destaque
 
-- Java
-- Spring Boot
-- HTML
-- CSS
-- JavaScript
-- Git
-- PostgreSQL (básico)
+### 🛍️ AUTHENTIC — E-commerce Full Stack
+E-commerce desenvolvido com Node.js, Express e PostgreSQL.
 
----
+- Autenticação com JWT
+- Cadastro e gerenciamento de produtos
+- Controle de estoque
+- Carrinho e pedidos
+- Integração de pagamentos
+- Painel administrativo
 
-## 📌 O que você vai encontrar aqui
-
-- Projetos acadêmicos
-- Exercícios de lógica e estrutura de dados
-- Sistemas em Java com POO
-- Projetos web
-- Experimentos para aprendizado
+🌐 **Projeto:** https://authentic-f8nd.onrender.com
 
 ---
 
-## 🎯 Objetivo
+### 👗 Martins Ateliê — Sistema Web Full Stack
+Site e sistema de gestão desenvolvido para uma loja real de aluguel de vestuário.
 
-Continuar evoluindo como desenvolvedora, fortalecendo tanto a base em lógica e back-end quanto a construção de aplicações web mais completas.
+- Vitrine de peças
+- Cadastro de clientes
+- Agendamentos e aluguéis
+- Pagamentos e despesas
+- Painel administrativo
+
+🌐 **Projeto em implantação:** https://martins-atelie.onrender.com
+
+---
+
+### ☕ API REST — Spring Boot
+API CRUD desenvolvida utilizando Java e Spring Boot.
+
+- Arquitetura em camadas
+- API REST
+- Integração com PostgreSQL
+- Organização de código orientada a objetos
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens:** Java • JavaScript  
+**Back-end:** Spring Boot • Node.js • Express  
+**Front-end:** HTML • CSS • JavaScript  
+**Banco de dados:** PostgreSQL  
+**Ferramentas:** Git • GitHub • Postman
+
+---
+
+## 📚 Atualmente
+
+🎓 Engenharia da Computação — Universidade Católica de Petrópolis  
+📖 4º período  
+💼 Buscando oportunidade de estágio em desenvolvimento de software
